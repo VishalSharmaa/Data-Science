@@ -1,4 +1,5 @@
- [
+{
+    "data": [
         {
             "rank": 1,
             "country": "United States",
@@ -1687,5 +1688,5 @@
             "gdpPerCapita": "24025.3068",
             "pop": "38.1910"
         }
- ]
-
+    ]
+}
