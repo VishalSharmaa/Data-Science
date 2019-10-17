@@ -1,0 +1,1692 @@
+{
+    "data": [
+        {
+            "rank": 1,
+            "country": "United States",
+            "imfGDP": 21410230000000,
+            "unGDP": 18624475000000,
+            "gdpPerCapita": "65063.8488",
+            "pop": "329064.9170"
+        },
+        {
+            "rank": 2,
+            "country": "China",
+            "imfGDP": 15543710000000,
+            "unGDP": 11218281029298,
+            "gdpPerCapita": "10841.0426",
+            "pop": "1433783.6860"
+        },
+        {
+            "rank": 3,
+            "country": "Japan",
+            "imfGDP": 5362220000000,
+            "unGDP": 4936211827875,
+            "gdpPerCapita": "42268.7000",
+            "pop": "126860.3010"
+        },
+        {
+            "rank": 4,
+            "country": "Germany",
+            "imfGDP": 4416800000000,
+            "unGDP": 3477796274497,
+            "gdpPerCapita": "52885.0129",
+            "pop": "83517.0450"
+        },
+        {
+            "rank": 5,
+            "country": "India",
+            "imfGDP": 3155230000000,
+            "unGDP": 2259642382872,
+            "gdpPerCapita": "2309.1254",
+            "pop": "1366417.7540"
+        },
+        {
+            "rank": 6,
+            "country": "France",
+            "imfGDP": 3060070000000,
+            "unGDP": 2465453975282,
+            "gdpPerCapita": "46984.2282",
+            "pop": "65129.7280"
+        },
+        {
+            "rank": 7,
+            "country": "United Kingdom",
+            "imfGDP": 3022580000000,
+            "unGDP": 2647898654635,
+            "gdpPerCapita": "44758.9560",
+            "pop": "67530.1720"
+        },
+        {
+            "rank": 8,
+            "country": "Italy",
+            "imfGDP": 2261460000000,
+            "unGDP": 1858913163928,
+            "gdpPerCapita": "37348.5912",
+            "pop": "60550.0750"
+        },
+        {
+            "rank": 9,
+            "country": "Brazil",
+            "imfGDP": 2256850000000,
+            "unGDP": 1795925681016,
+            "gdpPerCapita": "10693.4615",
+            "pop": "211049.5270"
+        },
+        {
+            "rank": 10,
+            "country": "Canada",
+            "imfGDP": 1908530000000,
+            "unGDP": 1529760492201,
+            "gdpPerCapita": "51015.1453",
+            "pop": "37411.0470"
+        },
+        {
+            "rank": 11,
+            "country": "South Korea",
+            "imfGDP": 1777650000000,
+            "unGDP": 1411245589977,
+            "gdpPerCapita": "34702.5732",
+            "pop": "51225.3080"
+        },
+        {
+            "rank": 12,
+            "country": "Russia",
+            "imfGDP": 1754290000000,
+            "unGDP": 1246015056927,
+            "gdpPerCapita": "12026.2074",
+            "pop": "145872.2560"
+        },
+        {
+            "rank": 13,
+            "country": "Spain",
+            "imfGDP": 1583870000000,
+            "unGDP": 1237255019654,
+            "gdpPerCapita": "33889.1583",
+            "pop": "46736.7760"
+        },
+        {
+            "rank": 14,
+            "country": "Australia",
+            "imfGDP": 1581890000000,
+            "unGDP": 1304463104965,
+            "gdpPerCapita": "62765.4475",
+            "pop": "25203.1980"
+        },
+        {
+            "rank": 15,
+            "country": "Mexico",
+            "imfGDP": 1285080000000,
+            "unGDP": 1076914464477,
+            "gdpPerCapita": "10073.0917",
+            "pop": "127575.5290"
+        },
+        {
+            "rank": 16,
+            "country": "Indonesia",
+            "imfGDP": 1152890000000,
+            "unGDP": 932259177621,
+            "gdpPerCapita": "4260.0927",
+            "pop": "270625.5680"
+        },
+        {
+            "rank": 17,
+            "country": "Netherlands",
+            "imfGDP": 994771000000,
+            "unGDP": 777227541581,
+            "gdpPerCapita": "58183.5080",
+            "pop": "17097.1300"
+        },
+        {
+            "rank": 18,
+            "country": "Turkey",
+            "imfGDP": 961655000000,
+            "unGDP": 863711710542,
+            "gdpPerCapita": "11526.5425",
+            "pop": "83429.6150"
+        },
+        {
+            "rank": 19,
+            "country": "Switzerland",
+            "imfGDP": 779327000000,
+            "unGDP": 668851296244,
+            "gdpPerCapita": "90710.4983",
+            "pop": "8591.3650"
+        },
+        {
+            "rank": 20,
+            "country": "Saudi Arabia",
+            "imfGDP": 759219000000,
+            "unGDP": 639617050945,
+            "gdpPerCapita": "22154.9931",
+            "pop": "34268.5280"
+        },
+        {
+            "rank": 21,
+            "country": "Argentina",
+            "imfGDP": 659694000000,
+            "unGDP": 545866164479,
+            "gdpPerCapita": "14731.6665",
+            "pop": "44780.6770"
+        },
+        {
+            "rank": 22,
+            "country": "Poland",
+            "imfGDP": 649974000000,
+            "unGDP": 471402266588,
+            "gdpPerCapita": "17155.2465",
+            "pop": "37887.7680"
+        },
+        {
+            "rank": 23,
+            "country": "Sweden",
+            "imfGDP": 628802000000,
+            "unGDP": 514475856961,
+            "gdpPerCapita": "62652.2773",
+            "pop": "10036.3790"
+        },
+        {
+            "rank": 24,
+            "country": "Taiwan",
+            "imfGDP": 620600000000,
+            "unGDP": 0,
+            "gdpPerCapita": "26104.2835",
+            "pop": "23773.8760"
+        },
+        {
+            "rank": 25,
+            "country": "Belgium",
+            "imfGDP": 587699000000,
+            "unGDP": 467955267357,
+            "gdpPerCapita": "50930.0888",
+            "pop": "11539.3280"
+        },
+        {
+            "rank": 26,
+            "country": "Thailand",
+            "imfGDP": "520073999999.9999",
+            "unGDP": 407026319505,
+            "gdpPerCapita": "7469.5821",
+            "pop": "69625.5820"
+        },
+        {
+            "rank": 27,
+            "country": "Austria",
+            "imfGDP": 503538000000,
+            "unGDP": 390799991147,
+            "gdpPerCapita": "56229.1753",
+            "pop": "8955.1020"
+        },
+        {
+            "rank": 28,
+            "country": "Nigeria",
+            "imfGDP": 475566000000,
+            "unGDP": 404649125399,
+            "gdpPerCapita": "2366.4286",
+            "pop": "200963.5990"
+        },
+        {
+            "rank": 29,
+            "country": "Norway",
+            "imfGDP": 460177000000,
+            "unGDP": 371068933176,
+            "gdpPerCapita": "85552.9344",
+            "pop": "5378.8570"
+        },
+        {
+            "rank": 30,
+            "country": "United Arab Emirates",
+            "imfGDP": 427830000000,
+            "unGDP": 348743627620,
+            "gdpPerCapita": "43787.8031",
+            "pop": "9770.5290"
+        },
+        {
+            "rank": 31,
+            "country": "Iran",
+            "imfGDP": 413114000000,
+            "unGDP": 425402616011,
+            "gdpPerCapita": "4982.4453",
+            "pop": "82913.9060"
+        },
+        {
+            "rank": 32,
+            "country": "Ireland",
+            "imfGDP": 409225000000,
+            "unGDP": 304819019837,
+            "gdpPerCapita": "83814.7300",
+            "pop": "4882.4950"
+        },
+        {
+            "rank": 33,
+            "country": "Malaysia",
+            "imfGDP": 402605000000,
+            "unGDP": 296531469473,
+            "gdpPerCapita": "12601.1834",
+            "pop": "31949.7770"
+        },
+        {
+            "rank": 34,
+            "country": "Israel",
+            "imfGDP": 390656000000,
+            "unGDP": 317747579750,
+            "gdpPerCapita": "45854.9962",
+            "pop": "8519.3770"
+        },
+        {
+            "rank": 35,
+            "country": "Hong Kong",
+            "imfGDP": 387983000000,
+            "unGDP": 320912235499,
+            "gdpPerCapita": "52175.2239",
+            "pop": "7436.1540"
+        },
+        {
+            "rank": 36,
+            "country": "South Africa",
+            "imfGDP": 386853000000,
+            "unGDP": 295440009818,
+            "gdpPerCapita": "6606.2915",
+            "pop": "58558.2700"
+        },
+        {
+            "rank": 37,
+            "country": "Denmark",
+            "imfGDP": 386403000000,
+            "unGDP": 306899653410,
+            "gdpPerCapita": "66945.8249",
+            "pop": "5771.8760"
+        },
+        {
+            "rank": 38,
+            "country": "Singapore",
+            "imfGDP": 367783000000,
+            "unGDP": 296946278392,
+            "gdpPerCapita": "63363.4815",
+            "pop": "5804.3370"
+        },
+        {
+            "rank": 39,
+            "country": "Philippines",
+            "imfGDP": 355744000000,
+            "unGDP": 304905638877,
+            "gdpPerCapita": "3290.3731",
+            "pop": "108116.6150"
+        },
+        {
+            "rank": 40,
+            "country": "Colombia",
+            "imfGDP": 347027000000,
+            "unGDP": 282462551367,
+            "gdpPerCapita": "6893.7394",
+            "pop": "50339.4430"
+        },
+        {
+            "rank": 41,
+            "country": "Bangladesh",
+            "imfGDP": 312794000000,
+            "unGDP": 220836732893,
+            "gdpPerCapita": "1918.4383",
+            "pop": "163046.1610"
+        },
+        {
+            "rank": 42,
+            "country": "Finland",
+            "imfGDP": 304133000000,
+            "unGDP": 238502900312,
+            "gdpPerCapita": "54975.4924",
+            "pop": "5532.1560"
+        },
+        {
+            "rank": 43,
+            "country": "Chile",
+            "imfGDP": 295844000000,
+            "unGDP": 247045730477,
+            "gdpPerCapita": "15610.1418",
+            "pop": "18952.0380"
+        },
+        {
+            "rank": 44,
+            "country": "Czech Republic",
+            "imfGDP": 276961000000,
+            "unGDP": 195305084919,
+            "gdpPerCapita": "25910.3363",
+            "pop": "10689.2090"
+        },
+        {
+            "rank": 45,
+            "country": "Romania",
+            "imfGDP": 265265000000,
+            "unGDP": 186690976699,
+            "gdpPerCapita": "13698.4802",
+            "pop": "19364.5570"
+        },
+        {
+            "rank": 46,
+            "country": "Vietnam",
+            "imfGDP": "264939000000.0000",
+            "unGDP": 205276171343,
+            "gdpPerCapita": "2746.5604",
+            "pop": "96462.1060"
+        },
+        {
+            "rank": 47,
+            "country": "Portugal",
+            "imfGDP": 260353000000,
+            "unGDP": 204836597909,
+            "gdpPerCapita": "25459.4406",
+            "pop": "10226.1870"
+        },
+        {
+            "rank": 48,
+            "country": "Peru",
+            "imfGDP": 246714000000,
+            "unGDP": 192209529586,
+            "gdpPerCapita": "7588.7592",
+            "pop": "32510.4530"
+        },
+        {
+            "rank": 49,
+            "country": "Greece",
+            "imfGDP": 235836000000,
+            "unGDP": 192690813127,
+            "gdpPerCapita": "22517.4978",
+            "pop": "10473.4550"
+        },
+        {
+            "rank": 50,
+            "country": "New Zealand",
+            "imfGDP": 235328000000,
+            "unGDP": 187517098554,
+            "gdpPerCapita": "49200.2719",
+            "pop": "4783.0630"
+        },
+        {
+            "rank": 51,
+            "country": "Iraq",
+            "imfGDP": 233402000000,
+            "unGDP": 160021001474,
+            "gdpPerCapita": "5937.5042",
+            "pop": "39309.7830"
+        },
+        {
+            "rank": 52,
+            "country": "Algeria",
+            "imfGDP": 208773000000,
+            "unGDP": 159049145187,
+            "gdpPerCapita": "4849.2030",
+            "pop": "43053.0540"
+        },
+        {
+            "rank": 53,
+            "country": "Qatar",
+            "imfGDP": 193906000000,
+            "unGDP": 152451923077,
+            "gdpPerCapita": "68468.0129",
+            "pop": "2832.0670"
+        },
+        {
+            "rank": 54,
+            "country": "Kazakhstan",
+            "imfGDP": 190469000000,
+            "unGDP": 135005203998,
+            "gdpPerCapita": "10267.0808",
+            "pop": "18551.4270"
+        },
+        {
+            "rank": 55,
+            "country": "Hungary",
+            "imfGDP": 172827000000,
+            "unGDP": 125816640421,
+            "gdpPerCapita": "17845.4030",
+            "pop": "9684.6790"
+        },
+        {
+            "rank": 56,
+            "country": "Kuwait",
+            "imfGDP": 140146000000,
+            "unGDP": 110346129191,
+            "gdpPerCapita": "33311.9171",
+            "pop": "4207.0830"
+        },
+        {
+            "rank": 57,
+            "country": "Morocco",
+            "imfGDP": "129033000000.0000",
+            "unGDP": 103606574896,
+            "gdpPerCapita": "3537.8871",
+            "pop": "36471.7690"
+        },
+        {
+            "rank": 58,
+            "country": "Ukraine",
+            "imfGDP": 126721000000,
+            "unGDP": 93270354852,
+            "gdpPerCapita": "2880.4392",
+            "pop": "43993.6380"
+        },
+        {
+            "rank": 59,
+            "country": "Angola",
+            "imfGDP": 121138000000,
+            "unGDP": 106917535790,
+            "gdpPerCapita": "3806.3434",
+            "pop": "31825.2950"
+        },
+        {
+            "rank": 60,
+            "country": "Slovakia",
+            "imfGDP": 119875000000,
+            "unGDP": 89768598023,
+            "gdpPerCapita": "21967.1458",
+            "pop": "5457.0130"
+        },
+        {
+            "rank": 61,
+            "country": "Ecuador",
+            "imfGDP": 109866000000,
+            "unGDP": 98010212618,
+            "gdpPerCapita": "6323.7100",
+            "pop": "17373.6620"
+        },
+        {
+            "rank": 62,
+            "country": "Sri Lanka",
+            "imfGDP": 99651000000,
+            "unGDP": 81321970966,
+            "gdpPerCapita": "4673.2437",
+            "pop": "21323.7330"
+        },
+        {
+            "rank": 63,
+            "country": "Puerto Rico",
+            "imfGDP": 96980000000,
+            "unGDP": 105034500000,
+            "gdpPerCapita": "33060.5221",
+            "pop": "2933.4080"
+        },
+        {
+            "rank": 64,
+            "country": "Kenya",
+            "imfGDP": 95803000000,
+            "unGDP": 70525979046,
+            "gdpPerCapita": "1822.2515",
+            "pop": "52573.9730"
+        },
+        {
+            "rank": 65,
+            "country": "Venezuela",
+            "imfGDP": 92417000000,
+            "unGDP": 291376437340,
+            "gdpPerCapita": "3240.9017",
+            "pop": "28515.8290"
+        },
+        {
+            "rank": 66,
+            "country": "Ethiopia",
+            "imfGDP": 89727000000,
+            "unGDP": 70314560872,
+            "gdpPerCapita": "800.5712",
+            "pop": "112078.7300"
+        },
+        {
+            "rank": 67,
+            "country": "Guatemala",
+            "imfGDP": 87819000000,
+            "unGDP": 68762920570,
+            "gdpPerCapita": "4994.9743",
+            "pop": "17581.4720"
+        },
+        {
+            "rank": 68,
+            "country": "Oman",
+            "imfGDP": 85636000000,
+            "unGDP": 63170959402,
+            "gdpPerCapita": "17213.3148",
+            "pop": "4974.9860"
+        },
+        {
+            "rank": 69,
+            "country": "Dominican Republic",
+            "imfGDP": 84585000000,
+            "unGDP": 71583585170,
+            "gdpPerCapita": "7876.4625",
+            "pop": "10738.9580"
+        },
+        {
+            "rank": 70,
+            "country": "Luxembourg",
+            "imfGDP": 77436000000,
+            "unGDP": 58631324559,
+            "gdpPerCapita": "125763.1198",
+            "pop": "615.7290"
+        },
+        {
+            "rank": 71,
+            "country": "Myanmar",
+            "imfGDP": 74974000000,
+            "unGDP": 65697616068,
+            "gdpPerCapita": "1387.2406",
+            "pop": "54045.4200"
+        },
+        {
+            "rank": 72,
+            "country": "Panama",
+            "imfGDP": 72371000000,
+            "unGDP": 55187800000,
+            "gdpPerCapita": "17042.7504",
+            "pop": "4246.4390"
+        },
+        {
+            "rank": 73,
+            "country": "Bulgaria",
+            "imfGDP": "68490000000.0000",
+            "unGDP": 53239643485,
+            "gdpPerCapita": "9784.1194",
+            "pop": "7000.1190"
+        },
+        {
+            "rank": 74,
+            "country": "Uruguay",
+            "imfGDP": "66749000000.0000",
+            "unGDP": 52419718459,
+            "gdpPerCapita": "19281.9552",
+            "pop": "3461.7340"
+        },
+        {
+            "rank": 75,
+            "country": "Costa Rica",
+            "imfGDP": "64850000000.0000",
+            "unGDP": 57435510668,
+            "gdpPerCapita": "12847.7893",
+            "pop": "5047.5610"
+        },
+        {
+            "rank": 76,
+            "country": "Croatia",
+            "imfGDP": 63810000000,
+            "unGDP": 51231002611,
+            "gdpPerCapita": "15449.2260",
+            "pop": "4130.3040"
+        },
+        {
+            "rank": 77,
+            "country": "Tanzania",
+            "imfGDP": 61660000000,
+            "unGDP": 0,
+            "gdpPerCapita": "1063.0033",
+            "pop": "58005.4630"
+        },
+        {
+            "rank": 78,
+            "country": "Belarus",
+            "imfGDP": 61522000000,
+            "unGDP": 47408111179,
+            "gdpPerCapita": "6508.6040",
+            "pop": "9452.4110"
+        },
+        {
+            "rank": 79,
+            "country": "Slovenia",
+            "imfGDP": 60638000000,
+            "unGDP": 44708598649,
+            "gdpPerCapita": "29171.7621",
+            "pop": "2078.6540"
+        },
+        {
+            "rank": 80,
+            "country": "Lithuania",
+            "imfGDP": 58215000000,
+            "unGDP": 42773029835,
+            "gdpPerCapita": "21095.2422",
+            "pop": "2759.6270"
+        },
+        {
+            "rank": 81,
+            "country": "Macau",
+            "imfGDP": 57573000000,
+            "unGDP": 45311080521,
+            "gdpPerCapita": "89895.3072",
+            "pop": "640.4450"
+        },
+        {
+            "rank": 82,
+            "country": "Ghana",
+            "imfGDP": 56725000000,
+            "unGDP": 42793869465,
+            "gdpPerCapita": "1864.8586",
+            "pop": "30417.8560"
+        },
+        {
+            "rank": 83,
+            "country": "Lebanon",
+            "imfGDP": 56379000000,
+            "unGDP": 50457653265,
+            "gdpPerCapita": "8223.6523",
+            "pop": "6855.7130"
+        },
+        {
+            "rank": 84,
+            "country": "Ivory Coast",
+            "imfGDP": 52979000000,
+            "unGDP": 36767790205,
+            "gdpPerCapita": "2060.1135",
+            "pop": "25716.5440"
+        },
+        {
+            "rank": 85,
+            "country": "Serbia",
+            "imfGDP": 51304000000,
+            "unGDP": 38299871897,
+            "gdpPerCapita": "5848.4525",
+            "pop": "8772.2350"
+        },
+        {
+            "rank": 86,
+            "country": "Azerbaijan",
+            "imfGDP": 47926000000,
+            "unGDP": 37847204069,
+            "gdpPerCapita": "4769.8393",
+            "pop": "10047.7180"
+        },
+        {
+            "rank": 87,
+            "country": "Uzbekistan",
+            "imfGDP": 47892000000,
+            "unGDP": 67778902435,
+            "gdpPerCapita": "1452.0773",
+            "pop": "32981.7160"
+        },
+        {
+            "rank": 88,
+            "country": "Libya",
+            "imfGDP": 46923000000,
+            "unGDP": 42959534586,
+            "gdpPerCapita": "6923.3984",
+            "pop": "6777.4520"
+        },
+        {
+            "rank": 89,
+            "country": "Turkmenistan",
+            "imfGDP": 46401000000,
+            "unGDP": 36179885714,
+            "gdpPerCapita": "7808.8699",
+            "pop": "5942.0890"
+        },
+        {
+            "rank": 90,
+            "country": "Jordan",
+            "imfGDP": 44794000000,
+            "unGDP": 38654647887,
+            "gdpPerCapita": "4434.3058",
+            "pop": "10101.6940"
+        },
+        {
+            "rank": 91,
+            "country": "Bolivia",
+            "imfGDP": 43804000000,
+            "unGDP": 33806395465,
+            "gdpPerCapita": "3804.7094",
+            "pop": "11513.1000"
+        },
+        {
+            "rank": 92,
+            "country": "DR Congo",
+            "imfGDP": 43663000000,
+            "unGDP": 40337492609,
+            "gdpPerCapita": "503.0846",
+            "pop": "86790.5670"
+        },
+        {
+            "rank": 93,
+            "country": "Tunisia",
+            "imfGDP": 41956000000,
+            "unGDP": 41703561397,
+            "gdpPerCapita": "3587.6022",
+            "pop": "11694.7190"
+        },
+        {
+            "rank": 94,
+            "country": "Cameroon",
+            "imfGDP": 41748000000,
+            "unGDP": 32217073816,
+            "gdpPerCapita": "1613.3632",
+            "pop": "25876.3800"
+        },
+        {
+            "rank": 95,
+            "country": "Bahrain",
+            "imfGDP": 39703000000,
+            "unGDP": 32179073596,
+            "gdpPerCapita": "24191.8580",
+            "pop": "1641.1720"
+        },
+        {
+            "rank": 96,
+            "country": "Latvia",
+            "imfGDP": 38621000000,
+            "unGDP": 27572698482,
+            "gdpPerCapita": "20254.9583",
+            "pop": "1906.7430"
+        },
+        {
+            "rank": 97,
+            "country": "Paraguay",
+            "imfGDP": 34615000000,
+            "unGDP": 27165101909,
+            "gdpPerCapita": "4913.6676",
+            "pop": "7044.6360"
+        },
+        {
+            "rank": 98,
+            "country": "Estonia",
+            "imfGDP": "33267000000.0000",
+            "unGDP": 23337920560,
+            "gdpPerCapita": "25094.8970",
+            "pop": "1325.6480"
+        },
+        {
+            "rank": 99,
+            "country": "Iceland",
+            "imfGDP": 31646000000,
+            "unGDP": 20269659972,
+            "gdpPerCapita": "93342.4967",
+            "pop": "339.0310"
+        },
+        {
+            "rank": 100,
+            "country": "El Salvador",
+            "imfGDP": 30709000000,
+            "unGDP": 26797469656,
+            "gdpPerCapita": "4758.4641",
+            "pop": "6453.5530"
+        },
+        {
+            "rank": 101,
+            "country": "Uganda",
+            "imfGDP": 29690000000,
+            "unGDP": 25307842467,
+            "gdpPerCapita": "670.6635",
+            "pop": "44269.5940"
+        },
+        {
+            "rank": 102,
+            "country": "Nepal",
+            "imfGDP": 28750000000,
+            "unGDP": 20914004957,
+            "gdpPerCapita": "1004.9387",
+            "pop": "28608.7100"
+        },
+        {
+            "rank": 103,
+            "country": "Papua New Guinea",
+            "imfGDP": 27411000000,
+            "unGDP": 19694115731,
+            "gdpPerCapita": "3123.3659",
+            "pop": "8776.1090"
+        },
+        {
+            "rank": 104,
+            "country": "Zambia",
+            "imfGDP": 27217000000,
+            "unGDP": 21063063977,
+            "gdpPerCapita": "1523.8203",
+            "pop": "17861.0300"
+        },
+        {
+            "rank": 105,
+            "country": "Cambodia",
+            "imfGDP": 26628000000,
+            "unGDP": 20016747858,
+            "gdpPerCapita": "1615.1355",
+            "pop": "16486.5420"
+        },
+        {
+            "rank": 106,
+            "country": "Cyprus",
+            "imfGDP": 26359000000,
+            "unGDP": 20046234311,
+            "gdpPerCapita": "21991.9488",
+            "pop": "1198.5750"
+        },
+        {
+            "rank": 107,
+            "country": "Honduras",
+            "imfGDP": 24823000000,
+            "unGDP": 21516915353,
+            "gdpPerCapita": "2546.9631",
+            "pop": "9746.1170"
+        },
+        {
+            "rank": 108,
+            "country": "Afghanistan",
+            "imfGDP": 22925000000,
+            "unGDP": 20235063330,
+            "gdpPerCapita": "602.6273",
+            "pop": "38041.7540"
+        },
+        {
+            "rank": 109,
+            "country": "Trinidad and Tobago",
+            "imfGDP": 22533000000,
+            "unGDP": 24086176564,
+            "gdpPerCapita": "16153.0008",
+            "pop": "1394.9730"
+        },
+        {
+            "rank": 110,
+            "country": "Senegal",
+            "imfGDP": 21722000000,
+            "unGDP": 14604520531,
+            "gdpPerCapita": "1332.9354",
+            "pop": "16296.3640"
+        },
+        {
+            "rank": 111,
+            "country": "Bosnia and Herzegovina",
+            "imfGDP": 21502000000,
+            "unGDP": 16909904149,
+            "gdpPerCapita": "6513.7837",
+            "pop": 3301
+        },
+        {
+            "rank": 112,
+            "country": "Zimbabwe",
+            "imfGDP": 21067000000,
+            "unGDP": 16123763648,
+            "gdpPerCapita": "1438.4655",
+            "pop": "14645.4680"
+        },
+        {
+            "rank": 113,
+            "country": "Laos",
+            "imfGDP": 20059000000,
+            "unGDP": 15805707090,
+            "gdpPerCapita": "2797.8417",
+            "pop": "7169.4550"
+        },
+        {
+            "rank": 114,
+            "country": "Botswana",
+            "imfGDP": 19268000000,
+            "unGDP": 15566057294,
+            "gdpPerCapita": "8363.9472",
+            "pop": "2303.6970"
+        },
+        {
+            "rank": 115,
+            "country": "Mali",
+            "imfGDP": 19247000000,
+            "unGDP": 14001696748,
+            "gdpPerCapita": "979.0909",
+            "pop": "19658.0310"
+        },
+        {
+            "rank": 116,
+            "country": "Gabon",
+            "imfGDP": 18096000000,
+            "unGDP": 13863183526,
+            "gdpPerCapita": "8329.2713",
+            "pop": "2172.5790"
+        },
+        {
+            "rank": 117,
+            "country": "Yemen",
+            "imfGDP": 17452000000,
+            "unGDP": 25374086438,
+            "gdpPerCapita": "598.4516",
+            "pop": "29161.9220"
+        },
+        {
+            "rank": 118,
+            "country": "Georgia",
+            "imfGDP": 17433000000,
+            "unGDP": 14332728707,
+            "gdpPerCapita": "4361.7776",
+            "pop": "3996.7650"
+        },
+        {
+            "rank": 119,
+            "country": "Albania",
+            "imfGDP": 16146000000,
+            "unGDP": 11863866791,
+            "gdpPerCapita": "5604.4655",
+            "pop": "2880.9170"
+        },
+        {
+            "rank": 120,
+            "country": "Malta",
+            "imfGDP": 16046000000,
+            "unGDP": 10998577038,
+            "gdpPerCapita": "36437.3757",
+            "pop": "440.3720"
+        },
+        {
+            "rank": 121,
+            "country": "Burkina Faso",
+            "imfGDP": 15867000000,
+            "unGDP": 11695117109,
+            "gdpPerCapita": "780.8033",
+            "pop": "20321.3780"
+        },
+        {
+            "rank": 122,
+            "country": "Jamaica",
+            "imfGDP": 15845000000,
+            "unGDP": 14056901075,
+            "gdpPerCapita": "5374.3218",
+            "pop": "2948.2790"
+        },
+        {
+            "rank": 123,
+            "country": "Nicaragua",
+            "imfGDP": 15499000000,
+            "unGDP": 13230214875,
+            "gdpPerCapita": "2367.8856",
+            "pop": "6545.5020"
+        },
+        {
+            "rank": 124,
+            "country": "Mozambique",
+            "imfGDP": 15017000000,
+            "unGDP": 10930131568,
+            "gdpPerCapita": "494.5328",
+            "pop": "30366.0360"
+        },
+        {
+            "rank": 125,
+            "country": "Brunei",
+            "imfGDP": 14791000000,
+            "unGDP": 11400266878,
+            "gdpPerCapita": "34136.8845",
+            "pop": "433.2850"
+        },
+        {
+            "rank": 126,
+            "country": "Mauritius",
+            "imfGDP": 14217000000,
+            "unGDP": 12216235024,
+            "gdpPerCapita": "11197.4154",
+            "pop": "1269.6680"
+        },
+        {
+            "rank": 127,
+            "country": "Namibia",
+            "imfGDP": 14071000000,
+            "unGDP": 10947277246,
+            "gdpPerCapita": "5640.7419",
+            "pop": "2494.5300"
+        },
+        {
+            "rank": 128,
+            "country": "Macedonia",
+            "imfGDP": 13904000000,
+            "unGDP": 10745782586,
+            "gdpPerCapita": "6673.5175",
+            "pop": "2083.4590"
+        },
+        {
+            "rank": 129,
+            "country": "Mongolia",
+            "imfGDP": 13786000000,
+            "unGDP": 11160356685,
+            "gdpPerCapita": "4274.5073",
+            "pop": "3225.1670"
+        },
+        {
+            "rank": 130,
+            "country": "Madagascar",
+            "imfGDP": 13559000000,
+            "unGDP": 11222263845,
+            "gdpPerCapita": "502.7567",
+            "pop": "26969.3070"
+        },
+        {
+            "rank": 131,
+            "country": "Bahamas",
+            "imfGDP": 12899000000,
+            "unGDP": 11261800000,
+            "gdpPerCapita": "33118.3469",
+            "pop": "389.4820"
+        },
+        {
+            "rank": 132,
+            "country": "Armenia",
+            "imfGDP": 12696000000,
+            "unGDP": 10572299425,
+            "gdpPerCapita": "4292.4796",
+            "pop": "2957.7310"
+        },
+        {
+            "rank": 133,
+            "country": "Chad",
+            "imfGDP": 12240000000,
+            "unGDP": 11267295771,
+            "gdpPerCapita": "767.5485",
+            "pop": "15946.8760"
+        },
+        {
+            "rank": 134,
+            "country": "Benin",
+            "imfGDP": 12200000000,
+            "unGDP": 8893638002,
+            "gdpPerCapita": "1033.7975",
+            "pop": "11801.1510"
+        },
+        {
+            "rank": 135,
+            "country": "Guinea",
+            "imfGDP": 11698000000,
+            "unGDP": 8476136811,
+            "gdpPerCapita": "915.9639",
+            "pop": "12771.2460"
+        },
+        {
+            "rank": 136,
+            "country": "Equatorial Guinea",
+            "imfGDP": 11386000000,
+            "unGDP": 10677940568,
+            "gdpPerCapita": "8396.8419",
+            "pop": "1355.9860"
+        },
+        {
+            "rank": 137,
+            "country": "Republic of the Congo",
+            "imfGDP": 10923000000,
+            "unGDP": 7778081883,
+            "gdpPerCapita": "2030.1057",
+            "pop": "5380.5080"
+        },
+        {
+            "rank": 138,
+            "country": "Niger",
+            "imfGDP": 10717000000,
+            "unGDP": 7528285819,
+            "gdpPerCapita": "459.7457",
+            "pop": "23310.7150"
+        },
+        {
+            "rank": 139,
+            "country": "Rwanda",
+            "imfGDP": 10532000000,
+            "unGDP": 8473784827,
+            "gdpPerCapita": "834.0890",
+            "pop": "12626.9500"
+        },
+        {
+            "rank": 140,
+            "country": "Moldova",
+            "imfGDP": 9903000000,
+            "unGDP": 6772647958,
+            "gdpPerCapita": "2449.2594",
+            "pop": "4043.2630"
+        },
+        {
+            "rank": 141,
+            "country": "Haiti",
+            "imfGDP": 9751000000,
+            "unGDP": 7647347306,
+            "gdpPerCapita": "865.7492",
+            "pop": "11263.0770"
+        },
+        {
+            "rank": 142,
+            "country": "Somalia",
+            "imfGDP": "8210000000.0000",
+            "unGDP": 1318057519,
+            "gdpPerCapita": "531.6357",
+            "pop": "15442.9050"
+        },
+        {
+            "rank": 143,
+            "country": "Tajikistan",
+            "imfGDP": 8176000000,
+            "unGDP": 6951679338,
+            "gdpPerCapita": "877.1574",
+            "pop": "9321.0180"
+        },
+        {
+            "rank": 144,
+            "country": "Kyrgyzstan",
+            "imfGDP": 8029000000,
+            "unGDP": 6551291140,
+            "gdpPerCapita": "1251.4320",
+            "pop": "6415.8500"
+        },
+        {
+            "rank": 145,
+            "country": "Eritrea",
+            "imfGDP": 7717000000,
+            "unGDP": 5413804303,
+            "gdpPerCapita": "2206.6748",
+            "pop": "3497.1170"
+        },
+        {
+            "rank": 146,
+            "country": "Malawi",
+            "imfGDP": 7024000000,
+            "unGDP": 5318197658,
+            "gdpPerCapita": "377.0517",
+            "pop": "18628.7470"
+        },
+        {
+            "rank": 147,
+            "country": "Togo",
+            "imfGDP": 6078000000,
+            "unGDP": 4449262345,
+            "gdpPerCapita": "752.0075",
+            "pop": "8082.3660"
+        },
+        {
+            "rank": 148,
+            "country": "Montenegro",
+            "imfGDP": 5862000000,
+            "unGDP": 4373958354,
+            "gdpPerCapita": "9334.5881",
+            "pop": "627.9870"
+        },
+        {
+            "rank": 149,
+            "country": "Fiji",
+            "imfGDP": 5794000000,
+            "unGDP": 4671118364,
+            "gdpPerCapita": "6510.4562",
+            "pop": "889.9530"
+        },
+        {
+            "rank": 150,
+            "country": "Mauritania",
+            "imfGDP": 5540000000,
+            "unGDP": 4667119320,
+            "gdpPerCapita": "1224.1211",
+            "pop": "4525.6960"
+        },
+        {
+            "rank": 151,
+            "country": "Barbados",
+            "imfGDP": 5516000000,
+            "unGDP": 4552793288,
+            "gdpPerCapita": "19217.8382",
+            "pop": "287.0250"
+        },
+        {
+            "rank": 152,
+            "country": "Maldives",
+            "imfGDP": 5169000000,
+            "unGDP": 4224207488,
+            "gdpPerCapita": "9735.3250",
+            "pop": "530.9530"
+        },
+        {
+            "rank": 153,
+            "country": "Swaziland",
+            "imfGDP": 4644000000,
+            "unGDP": 4007002048,
+            "gdpPerCapita": "4044.8381",
+            "pop": "1148.1300"
+        },
+        {
+            "rank": 154,
+            "country": "Burundi",
+            "imfGDP": 4526000000,
+            "unGDP": 2873699606,
+            "gdpPerCapita": "392.5215",
+            "pop": "11530.5800"
+        },
+        {
+            "rank": 155,
+            "country": "Suriname",
+            "imfGDP": 4226000000,
+            "unGDP": 3278445033,
+            "gdpPerCapita": "7269.0119",
+            "pop": "581.3720"
+        },
+        {
+            "rank": 156,
+            "country": "Sierra Leone",
+            "imfGDP": 3976000000,
+            "unGDP": 3674756785,
+            "gdpPerCapita": "508.8814",
+            "pop": "7813.2150"
+        },
+        {
+            "rank": 157,
+            "country": "Guyana",
+            "imfGDP": 3911000000,
+            "unGDP": 3436626633,
+            "gdpPerCapita": "4996.3846",
+            "pop": "782.7660"
+        },
+        {
+            "rank": 158,
+            "country": "Liberia",
+            "imfGDP": 3534000000,
+            "unGDP": 2756817825,
+            "gdpPerCapita": "715.7651",
+            "pop": "4937.3740"
+        },
+        {
+            "rank": 159,
+            "country": "Lesotho",
+            "imfGDP": 3062000000,
+            "unGDP": 2241017076,
+            "gdpPerCapita": "1440.7595",
+            "pop": "2125.2680"
+        },
+        {
+            "rank": 160,
+            "country": "Timor-Leste",
+            "imfGDP": 3029000000,
+            "unGDP": 2703285752,
+            "gdpPerCapita": "2342.3985",
+            "pop": "1293.1190"
+        },
+        {
+            "rank": 161,
+            "country": "South Sudan",
+            "imfGDP": 2807000000,
+            "unGDP": 6534451826,
+            "gdpPerCapita": "253.7490",
+            "pop": "11062.1130"
+        },
+        {
+            "rank": 162,
+            "country": "Bhutan",
+            "imfGDP": 2800000000,
+            "unGDP": 2212642587,
+            "gdpPerCapita": "3669.2823",
+            "pop": "763.0920"
+        },
+        {
+            "rank": 163,
+            "country": "Djibouti",
+            "imfGDP": 2380000000,
+            "unGDP": 1891520369,
+            "gdpPerCapita": "2444.6362",
+            "pop": "973.5600"
+        },
+        {
+            "rank": 164,
+            "country": "Central African Republic",
+            "imfGDP": 2334000000,
+            "unGDP": 1810388740,
+            "gdpPerCapita": "491.8670",
+            "pop": "4745.1850"
+        },
+        {
+            "rank": 165,
+            "country": "Cape Verde",
+            "imfGDP": "2099000000.0000",
+            "unGDP": 1638928099,
+            "gdpPerCapita": "3816.8147",
+            "pop": "549.9350"
+        },
+        {
+            "rank": 166,
+            "country": "Belize",
+            "imfGDP": 1987000000,
+            "unGDP": 1741100000,
+            "gdpPerCapita": "5090.2645",
+            "pop": "390.3530"
+        },
+        {
+            "rank": 167,
+            "country": "San Marino",
+            "imfGDP": 1864000000,
+            "unGDP": 1590761265,
+            "gdpPerCapita": "55050.2067",
+            "pop": "33.8600"
+        },
+        {
+            "rank": 168,
+            "country": "Saint Lucia",
+            "imfGDP": 1825000000,
+            "unGDP": 1397066906,
+            "gdpPerCapita": "9984.1348",
+            "pop": "182.7900"
+        },
+        {
+            "rank": 169,
+            "country": "Guinea-Bissau",
+            "imfGDP": 1728000000,
+            "unGDP": 1122643236,
+            "gdpPerCapita": "899.5680",
+            "pop": "1920.9220"
+        },
+        {
+            "rank": 170,
+            "country": "Antigua and Barbuda",
+            "imfGDP": 1693000000,
+            "unGDP": 1460157909,
+            "gdpPerCapita": "17432.4018",
+            "pop": "97.1180"
+        },
+        {
+            "rank": 171,
+            "country": "Seychelles",
+            "imfGDP": 1659000000,
+            "unGDP": 1433826317,
+            "gdpPerCapita": "16973.7771",
+            "pop": "97.7390"
+        },
+        {
+            "rank": 172,
+            "country": "Solomon Islands",
+            "imfGDP": 1463000000,
+            "unGDP": 1133967215,
+            "gdpPerCapita": "2184.1591",
+            "pop": "669.8230"
+        },
+        {
+            "rank": 173,
+            "country": "Grenada",
+            "imfGDP": 1249000000,
+            "unGDP": 1016208148,
+            "gdpPerCapita": "11151.4870",
+            "pop": "112.0030"
+        },
+        {
+            "rank": 174,
+            "country": "Gambia",
+            "imfGDP": 1159000000,
+            "unGDP": 985831536,
+            "gdpPerCapita": "493.6734",
+            "pop": "2347.7060"
+        },
+        {
+            "rank": 175,
+            "country": "Saint Kitts and Nevis",
+            "imfGDP": 1024000000,
+            "unGDP": 909854620,
+            "gdpPerCapita": "19385.4950",
+            "pop": "52.8230"
+        },
+        {
+            "rank": 176,
+            "country": "Vanuatu",
+            "imfGDP": 1024000000,
+            "unGDP": 837519790,
+            "gdpPerCapita": "3414.6764",
+            "pop": "299.8820"
+        },
+        {
+            "rank": 177,
+            "country": "Samoa",
+            "imfGDP": 920000000,
+            "unGDP": 822233281,
+            "gdpPerCapita": "4667.7524",
+            "pop": "197.0970"
+        },
+        {
+            "rank": 178,
+            "country": "Saint Vincent and the Grenadines",
+            "imfGDP": 871000000,
+            "unGDP": 765318745,
+            "gdpPerCapita": "7876.0094",
+            "pop": "110.5890"
+        },
+        {
+            "rank": 179,
+            "country": "Comoros",
+            "imfGDP": 781000000,
+            "unGDP": 1149802573,
+            "gdpPerCapita": "917.8668",
+            "pop": "850.8860"
+        },
+        {
+            "rank": 180,
+            "country": "Dominica",
+            "imfGDP": 542000000,
+            "unGDP": 581484032,
+            "gdpPerCapita": "7547.9055",
+            "pop": "71.8080"
+        },
+        {
+            "rank": 181,
+            "country": "Sao Tome and Principe",
+            "imfGDP": 489000000,
+            "unGDP": 342781695,
+            "gdpPerCapita": "2273.8264",
+            "pop": "215.0560"
+        },
+        {
+            "rank": 182,
+            "country": "Tonga",
+            "imfGDP": 454000000,
+            "unGDP": 401460313,
+            "gdpPerCapita": "4344.7471",
+            "pop": "104.4940"
+        },
+        {
+            "rank": 183,
+            "country": "Micronesia",
+            "imfGDP": 342000000,
+            "unGDP": 329895643,
+            "gdpPerCapita": "3004.8763",
+            "pop": "113.8150"
+        },
+        {
+            "rank": 184,
+            "country": "Palau",
+            "imfGDP": 341000000,
+            "unGDP": 310248000,
+            "gdpPerCapita": "18936.0284",
+            "pop": "18.0080"
+        },
+        {
+            "rank": 185,
+            "country": "Kiribati",
+            "imfGDP": 220000000,
+            "unGDP": 173655146,
+            "gdpPerCapita": "1870.6529",
+            "pop": "117.6060"
+        },
+        {
+            "rank": 186,
+            "country": "Marshall Islands",
+            "imfGDP": 211000000,
+            "unGDP": 183000000,
+            "gdpPerCapita": "3588.9847",
+            "pop": "58.7910"
+        },
+        {
+            "rank": 187,
+            "country": "Nauru",
+            "imfGDP": 114000000,
+            "unGDP": 103469824,
+            "gdpPerCapita": "10598.7356",
+            "pop": "10.7560"
+        },
+        {
+            "rank": 188,
+            "country": "Tuvalu",
+            "imfGDP": 45000000,
+            "unGDP": 36697185,
+            "gdpPerCapita": "3863.9876",
+            "pop": "11.6460"
+        },
+        {
+            "rank": 189,
+            "country": "Andorra",
+            "imfGDP": 0,
+            "unGDP": 2858406626,
+            "gdpPerCapita": "37053.8309",
+            "pop": "77.1420"
+        },
+        {
+            "rank": 190,
+            "country": "Anguilla",
+            "imfGDP": 0,
+            "unGDP": 337520470,
+            "gdpPerCapita": "22699.6079",
+            "pop": "14.8690"
+        },
+        {
+            "rank": 191,
+            "country": "Aruba",
+            "imfGDP": 0,
+            "unGDP": 2667039106,
+            "gdpPerCapita": "25086.4336",
+            "pop": "106.3140"
+        },
+        {
+            "rank": 192,
+            "country": "Bermuda",
+            "imfGDP": 0,
+            "unGDP": 6127341000,
+            "gdpPerCapita": "98028.0453",
+            "pop": "62.5060"
+        },
+        {
+            "rank": 193,
+            "country": "British Virgin Islands",
+            "imfGDP": 0,
+            "unGDP": 971237110,
+            "gdpPerCapita": "32342.2281",
+            "pop": "30.0300"
+        },
+        {
+            "rank": 194,
+            "country": "Cayman Islands",
+            "imfGDP": 0,
+            "unGDP": 3844080626,
+            "gdpPerCapita": "59187.0516",
+            "pop": "64.9480"
+        },
+        {
+            "rank": 195,
+            "country": "Cook Islands",
+            "imfGDP": 0,
+            "unGDP": 290194195,
+            "gdpPerCapita": "16537.1663",
+            "pop": "17.5480"
+        },
+        {
+            "rank": 196,
+            "country": "Cuba",
+            "imfGDP": 0,
+            "unGDP": 89688700000,
+            "gdpPerCapita": "7913.6043",
+            "pop": "11333.4830"
+        },
+        {
+            "rank": 197,
+            "country": "Curacao",
+            "imfGDP": 0,
+            "unGDP": 3121449966,
+            "gdpPerCapita": "19100.3155",
+            "pop": "163.4240"
+        },
+        {
+            "rank": 198,
+            "country": "North Korea",
+            "imfGDP": 0,
+            "unGDP": 16788601831,
+            "gdpPerCapita": "654.1143",
+            "pop": "25666.1610"
+        },
+        {
+            "rank": 199,
+            "country": "Egypt",
+            "imfGDP": 0,
+            "unGDP": 270143813412,
+            "gdpPerCapita": "2690.9951",
+            "pop": "100388.0730"
+        },
+        {
+            "rank": 200,
+            "country": "French Polynesia",
+            "imfGDP": 0,
+            "unGDP": 5417934152,
+            "gdpPerCapita": "19399.1634",
+            "pop": "279.2870"
+        },
+        {
+            "rank": 201,
+            "country": "Greenland",
+            "imfGDP": 0,
+            "unGDP": 2282927882,
+            "gdpPerCapita": "40283.1713",
+            "pop": "56.6720"
+        },
+        {
+            "rank": 202,
+            "country": "Liechtenstein",
+            "imfGDP": 0,
+            "unGDP": 6193677543,
+            "gdpPerCapita": "162910.0593",
+            "pop": "38.0190"
+        },
+        {
+            "rank": 203,
+            "country": "Monaco",
+            "imfGDP": 0,
+            "unGDP": 6468000877,
+            "gdpPerCapita": "165999.4066",
+            "pop": "38.9640"
+        },
+        {
+            "rank": 204,
+            "country": "Montserrat",
+            "imfGDP": 0,
+            "unGDP": 62051375,
+            "gdpPerCapita": "12437.6378",
+            "pop": "4.9890"
+        },
+        {
+            "rank": 205,
+            "country": "New Caledonia",
+            "imfGDP": 0,
+            "unGDP": 9445714851,
+            "gdpPerCapita": "33406.5954",
+            "pop": "282.7500"
+        },
+        {
+            "rank": 206,
+            "country": "Pakistan",
+            "imfGDP": 0,
+            "unGDP": 282506007859,
+            "gdpPerCapita": "1304.4841",
+            "pop": "216565.3180"
+        },
+        {
+            "rank": 207,
+            "country": "Sint Maarten",
+            "imfGDP": 0,
+            "unGDP": 1072067039,
+            "gdpPerCapita": "25291.7580",
+            "pop": "42.3880"
+        },
+        {
+            "rank": 208,
+            "country": "Palestine",
+            "imfGDP": 0,
+            "unGDP": 13397100000,
+            "gdpPerCapita": "2689.4139",
+            "pop": "4981.4200"
+        },
+        {
+            "rank": 209,
+            "country": "Sudan",
+            "imfGDP": 0,
+            "unGDP": 82887395895,
+            "gdpPerCapita": "1936.0226",
+            "pop": "42813.2380"
+        },
+        {
+            "rank": 210,
+            "country": "Syria",
+            "imfGDP": 0,
+            "unGDP": 22163075121,
+            "gdpPerCapita": "1298.3538",
+            "pop": "17070.1350"
+        },
+        {
+            "rank": 211,
+            "country": "Turks and Caicos Islands",
+            "imfGDP": 0,
+            "unGDP": 917550492,
+            "gdpPerCapita": "24025.3068",
+            "pop": "38.1910"
+        }
+    ]
+}
